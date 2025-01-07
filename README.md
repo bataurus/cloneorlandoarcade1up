@@ -10,7 +10,7 @@ Please follow the wiring instructions in the below videos:
 You will need to connect to your Pi from a terminal (Putty on Windows) and run the below command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/orlandovald/arcade1up/master/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/bataurus/cloneorlandoarcade1up/master/setup.sh)
 ```
 
 This is what the script will do,
