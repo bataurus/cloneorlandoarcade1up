@@ -3,7 +3,7 @@
 # Global variables
 ROOT_DIR="/home/pi/arcade1up"
 SCRIPTS_DIR="${ROOT_DIR}/scripts"
-GITHUB_REPO="https://github.com/orlandovald/arcade1up.git"
+GITHUB_REPO="https://github.com:bataurus/cloneorlandoarcade1up.git"
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
